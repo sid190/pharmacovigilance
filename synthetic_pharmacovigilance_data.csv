@@ -1,0 +1,1001 @@
+"id","age","gender","drug","dose","comorbidity","adverse_event","serious_ae"
+880,24,"Female","Placebo","10 mg","Hypertension","Mild",0
+46,42,"Male","Placebo","20 mg","None","Mild",0
+525,51,"Female","Placebo","10 mg","Hypertension","Severe",1
+692,65,"Male","Placebo","10 mg","Diabetes","Severe",1
+360,37,"Female","Drug B","50 mg","Diabetes","Moderate",0
+480,31,"Male","Placebo","50 mg","Diabetes","Severe",1
+958,59,"Male","Drug A","10 mg","None","Severe",1
+415,31,"Male","Drug B","20 mg","None","Moderate",0
+239,64,"Male","Placebo","20 mg","Diabetes","Moderate",0
+826,75,"Female","Placebo","50 mg","Diabetes","Mild",0
+412,31,"Male","Placebo","50 mg","Diabetes","Moderate",0
+133,65,"Female","Drug A","20 mg","Hypertension","Mild",0
+835,23,"Female","Placebo","20 mg","Diabetes","Mild",0
+993,50,"Female","Drug B","10 mg","Diabetes","Severe",1
+407,77,"Female","Drug B","20 mg","None","Mild",0
+479,70,"Male","Drug A","10 mg","Diabetes","Mild",0
+296,61,"Male","Drug A","50 mg","None","Mild",0
+202,48,"Female","Drug B","20 mg","None","Mild",0
+911,21,"Male","Placebo","10 mg","None","Mild",0
+679,35,"Female","Placebo","20 mg","Diabetes","Mild",0
+707,42,"Male","Drug A","20 mg","Diabetes","Moderate",0
+462,32,"Male","Placebo","10 mg","Hypertension","Mild",0
+131,61,"Female","Drug A","10 mg","Hypertension","Mild",0
+427,36,"Male","Drug A","50 mg","Diabetes","Severe",1
+258,79,"Male","Drug A","10 mg","Hypertension","Moderate",0
+812,20,"Female","Drug A","10 mg","None","Moderate",0
+524,46,"Female","Placebo","20 mg","None","Severe",1
+51,57,"Male","Placebo","20 mg","None","Moderate",0
+763,48,"Female","Placebo","50 mg","None","Mild",0
+618,26,"Female","Placebo","20 mg","Diabetes","Mild",0
+585,80,"Female","Drug B","20 mg","Hypertension","Severe",1
+683,35,"Female","Placebo","20 mg","Diabetes","Mild",0
+690,50,"Female","Drug B","20 mg","None","Mild",0
+345,59,"Male","Drug A","50 mg","Hypertension","Mild",0
+904,57,"Male","Placebo","20 mg","Hypertension","Severe",1
+952,76,"Female","Drug A","50 mg","Hypertension","Mild",0
+672,39,"Male","Placebo","20 mg","Diabetes","Moderate",0
+709,34,"Male","Drug B","20 mg","Diabetes","Severe",1
+409,56,"Male","Drug A","50 mg","Hypertension","Severe",1
+593,80,"Male","Placebo","50 mg","None","Severe",1
+367,79,"Female","Drug B","10 mg","Hypertension","Mild",0
+840,23,"Female","Drug A","20 mg","None","Severe",1
+662,69,"Female","Drug B","50 mg","None","Severe",1
+750,20,"Female","Drug A","10 mg","Diabetes","Moderate",0
+652,73,"Male","Drug A","20 mg","None","Severe",1
+32,38,"Male","Placebo","10 mg","None","Moderate",0
+534,51,"Female","Drug A","10 mg","None","Moderate",0
+22,70,"Female","Placebo","20 mg","Hypertension","Moderate",0
+124,22,"Male","Drug B","20 mg","Diabetes","Moderate",0
+548,74,"Male","Placebo","20 mg","Hypertension","Severe",1
+344,72,"Female","Drug A","50 mg","Hypertension","Mild",0
+934,48,"Female","Drug B","10 mg","None","Mild",0
+617,42,"Female","Drug A","10 mg","None","Severe",1
+90,24,"Female","Drug A","20 mg","None","Moderate",0
+124,73,"Male","Placebo","50 mg","Hypertension","Severe",1
+884,78,"Male","Drug A","10 mg","None","Mild",0
+226,27,"Male","Drug A","10 mg","Hypertension","Mild",0
+131,61,"Female","Drug A","50 mg","None","Mild",0
+355,37,"Female","Drug B","20 mg","Diabetes","Mild",0
+719,64,"Female","Drug A","20 mg","None","Mild",0
+444,57,"Male","Placebo","50 mg","None","Moderate",0
+722,57,"Female","Drug B","50 mg","Hypertension","Severe",1
+672,59,"Female","Drug B","20 mg","Hypertension","Moderate",0
+7,73,"Female","Drug B","50 mg","None","Mild",0
+180,53,"Male","Drug B","20 mg","None","Mild",0
+48,51,"Female","Placebo","20 mg","Hypertension","Mild",0
+18,45,"Female","Placebo","50 mg","Diabetes","Severe",1
+290,46,"Male","Placebo","10 mg","Hypertension","Severe",1
+955,59,"Male","Drug A","10 mg","Hypertension","Moderate",0
+287,33,"Male","Drug B","10 mg","Hypertension","Severe",1
+145,49,"Male","Placebo","50 mg","Hypertension","Severe",1
+463,49,"Female","Placebo","10 mg","Hypertension","Moderate",0
+159,24,"Male","Drug B","50 mg","Hypertension","Mild",0
+470,31,"Male","Drug B","50 mg","Hypertension","Mild",0
+507,39,"Female","Placebo","10 mg","None","Moderate",0
+74,71,"Female","Drug B","10 mg","Diabetes","Mild",0
+149,59,"Female","Drug B","20 mg","Diabetes","Severe",1
+544,78,"Female","Drug A","10 mg","Diabetes","Mild",0
+483,72,"Male","Placebo","10 mg","None","Mild",0
+544,67,"Male","Placebo","50 mg","Diabetes","Mild",0
+78,60,"Male","Drug A","10 mg","None","Mild",0
+190,49,"Female","Drug B","10 mg","Hypertension","Moderate",0
+714,64,"Male","Drug B","10 mg","Hypertension","Moderate",0
+313,76,"Female","Placebo","20 mg","Hypertension","Mild",0
+440,39,"Male","Drug B","50 mg","Diabetes","Moderate",0
+861,60,"Female","Drug A","50 mg","None","Severe",1
+338,47,"Female","Drug B","10 mg","Hypertension","Mild",0
+685,41,"Female","Placebo","20 mg","Diabetes","Mild",0
+93,68,"Female","Placebo","10 mg","Hypertension","Mild",0
+911,34,"Male","Drug B","50 mg","None","Mild",0
+713,78,"Female","Drug A","10 mg","Diabetes","Severe",1
+448,37,"Male","Placebo","20 mg","None","Mild",0
+400,63,"Female","Drug A","10 mg","None","Severe",1
+679,48,"Female","Placebo","20 mg","Diabetes","Mild",0
+391,50,"Female","Drug B","50 mg","Hypertension","Severe",1
+427,51,"Male","Drug B","50 mg","Hypertension","Mild",0
+817,73,"Female","Placebo","20 mg","None","Moderate",0
+255,79,"Female","Drug A","50 mg","Hypertension","Mild",0
+745,76,"Female","Placebo","10 mg","Diabetes","Severe",1
+17,76,"Male","Drug A","20 mg","None","Moderate",0
+178,44,"Female","Drug B","50 mg","Hypertension","Mild",0
+473,47,"Female","Drug B","20 mg","None","Severe",1
+327,61,"Male","Drug A","50 mg","Hypertension","Mild",0
+718,64,"Male","Placebo","50 mg","Diabetes","Severe",1
+594,76,"Female","Drug A","50 mg","Hypertension","Mild",0
+720,58,"Female","Drug B","50 mg","None","Mild",0
+157,51,"Male","Placebo","20 mg","None","Moderate",0
+760,48,"Female","Drug B","20 mg","Diabetes","Mild",0
+40,28,"Male","Drug B","10 mg","Hypertension","Mild",0
+605,75,"Female","Drug B","20 mg","None","Severe",1
+937,60,"Male","Drug A","10 mg","Hypertension","Severe",1
+540,47,"Female","Placebo","20 mg","None","Severe",1
+290,46,"Male","Drug A","10 mg","Diabetes","Mild",0
+721,72,"Male","Drug B","50 mg","None","Severe",1
+844,27,"Female","Drug A","10 mg","None","Moderate",0
+437,48,"Female","Placebo","10 mg","None","Moderate",0
+146,43,"Female","Drug B","10 mg","Diabetes","Mild",0
+92,24,"Male","Drug B","10 mg","Diabetes","Severe",1
+760,35,"Female","Placebo","20 mg","None","Mild",0
+147,68,"Male","Placebo","20 mg","None","Moderate",0
+382,54,"Male","Drug B","50 mg","Hypertension","Severe",1
+104,42,"Female","Placebo","10 mg","Diabetes","Moderate",0
+34,48,"Male","Drug A","20 mg","None","Moderate",0
+281,56,"Female","Placebo","20 mg","Hypertension","Moderate",0
+482,31,"Male","Drug A","10 mg","Hypertension","Mild",0
+973,61,"Female","Drug A","10 mg","Diabetes","Moderate",0
+858,80,"Male","Placebo","50 mg","Diabetes","Moderate",0
+336,37,"Female","Drug B","20 mg","Diabetes","Severe",1
+905,56,"Female","Drug B","20 mg","Diabetes","Severe",1
+539,25,"Male","Drug A","50 mg","Hypertension","Mild",0
+144,34,"Male","Drug A","20 mg","None","Severe",1
+867,22,"Male","Drug B","10 mg","Hypertension","Severe",1
+327,44,"Male","Drug B","20 mg","Hypertension","Mild",0
+742,28,"Female","Drug B","50 mg","Hypertension","Moderate",0
+651,53,"Female","Drug B","50 mg","None","Mild",0
+73,49,"Female","Placebo","50 mg","Hypertension","Mild",0
+905,26,"Female","Placebo","50 mg","None","Severe",1
+742,71,"Female","Placebo","20 mg","Diabetes","Moderate",0
+927,62,"Female","Placebo","20 mg","Diabetes","Mild",0
+945,30,"Male","Placebo","50 mg","None","Severe",1
+96,73,"Male","Placebo","10 mg","Hypertension","Severe",1
+471,31,"Male","Drug A","10 mg","Diabetes","Severe",1
+63,32,"Male","Drug B","10 mg","Diabetes","Mild",0
+102,42,"Female","Placebo","10 mg","None","Moderate",0
+915,66,"Male","Drug A","50 mg","Diabetes","Mild",0
+733,59,"Male","Drug B","50 mg","Diabetes","Mild",0
+946,30,"Male","Placebo","20 mg","None","Mild",0
+906,64,"Female","Drug B","50 mg","None","Moderate",0
+118,27,"Female","Placebo","10 mg","None","Mild",0
+428,51,"Male","Drug B","10 mg","Hypertension","Moderate",0
+463,49,"Female","Drug B","10 mg","Hypertension","Mild",0
+549,61,"Female","Drug B","20 mg","Hypertension","Mild",0
+375,54,"Male","Drug B","10 mg","Diabetes","Severe",1
+744,28,"Male","Drug A","10 mg","Diabetes","Severe",1
+796,63,"Male","Drug A","50 mg","None","Mild",0
+582,71,"Female","Drug B","10 mg","Hypertension","Moderate",0
+110,65,"Female","Placebo","50 mg","Hypertension","Moderate",0
+636,70,"Male","Drug A","20 mg","Diabetes","Moderate",0
+114,49,"Female","Drug B","20 mg","Diabetes","Mild",0
+937,74,"Male","Drug B","50 mg","None","Severe",1
+910,21,"Male","Placebo","50 mg","None","Mild",0
+840,21,"Male","Drug A","20 mg","Diabetes","Mild",0
+912,34,"Female","Placebo","50 mg","None","Mild",0
+224,21,"Female","Drug A","50 mg","None","Mild",0
+346,64,"Female","Drug A","10 mg","Hypertension","Mild",0
+729,64,"Male","Drug B","10 mg","Hypertension","Moderate",0
+829,44,"Male","Drug B","50 mg","Hypertension","Moderate",0
+484,34,"Female","Drug A","50 mg","Hypertension","Moderate",0
+456,68,"Male","Placebo","10 mg","None","Severe",1
+307,50,"Male","Placebo","20 mg","Diabetes","Mild",0
+871,29,"Male","Placebo","50 mg","Hypertension","Severe",1
+604,33,"Male","Drug A","20 mg","Hypertension","Moderate",0
+349,32,"Female","Drug B","10 mg","Hypertension","Moderate",0
+463,32,"Female","Drug A","20 mg","Hypertension","Severe",1
+100,54,"Female","Drug A","20 mg","Hypertension","Severe",1
+825,60,"Female","Drug A","10 mg","Hypertension","Moderate",0
+705,45,"Male","Drug A","10 mg","None","Moderate",0
+214,64,"Male","Placebo","20 mg","Diabetes","Moderate",0
+404,47,"Female","Drug B","50 mg","Diabetes","Severe",1
+169,74,"Female","Drug B","10 mg","None","Severe",1
+205,39,"Female","Placebo","50 mg","Diabetes","Mild",0
+656,73,"Male","Drug A","50 mg","Diabetes","Mild",0
+741,59,"Male","Placebo","50 mg","Hypertension","Severe",1
+416,38,"Female","Placebo","10 mg","Hypertension","Moderate",0
+354,21,"Female","Drug A","20 mg","Hypertension","Moderate",0
+646,57,"Female","Drug B","20 mg","Hypertension","Mild",0
+777,68,"Female","Drug B","10 mg","None","Moderate",0
+577,56,"Male","Drug A","10 mg","None","Moderate",0
+755,55,"Female","Drug B","50 mg","Diabetes","Mild",0
+856,75,"Male","Drug B","50 mg","Hypertension","Moderate",0
+888,54,"Female","Drug A","50 mg","Hypertension","Mild",0
+918,70,"Female","Drug B","20 mg","None","Mild",0
+159,61,"Female","Drug A","10 mg","Hypertension","Severe",1
+839,66,"Female","Drug B","20 mg","None","Mild",0
+300,45,"Female","Drug B","20 mg","Hypertension","Severe",1
+58,79,"Male","Placebo","10 mg","Diabetes","Moderate",0
+128,29,"Female","Drug A","20 mg","Diabetes","Moderate",0
+821,24,"Male","Drug A","50 mg","Hypertension","Mild",0
+359,22,"Female","Drug B","10 mg","Hypertension","Moderate",0
+452,68,"Male","Drug A","50 mg","None","Moderate",0
+669,52,"Male","Placebo","10 mg","Diabetes","Severe",1
+62,37,"Male","Drug B","20 mg","Hypertension","Mild",0
+41,29,"Male","Drug B","20 mg","Hypertension","Mild",0
+10,61,"Male","Drug A","50 mg","Hypertension","Mild",0
+150,54,"Male","Drug B","10 mg","Hypertension","Severe",1
+886,78,"Female","Drug B","10 mg","Diabetes","Severe",1
+161,43,"Male","Placebo","50 mg","None","Mild",0
+953,57,"Male","Drug A","50 mg","Diabetes","Severe",1
+863,56,"Female","Drug B","20 mg","Diabetes","Severe",1
+189,71,"Female","Drug A","20 mg","None","Mild",0
+985,45,"Male","Placebo","10 mg","None","Moderate",0
+435,39,"Female","Drug B","50 mg","Diabetes","Mild",0
+237,80,"Male","Placebo","50 mg","Diabetes","Mild",0
+387,21,"Male","Drug A","50 mg","Hypertension","Severe",1
+347,52,"Male","Drug B","10 mg","Hypertension","Mild",0
+886,70,"Male","Drug B","20 mg","Diabetes","Mild",0
+899,27,"Female","Placebo","50 mg","None","Severe",1
+154,42,"Male","Placebo","50 mg","Diabetes","Mild",0
+477,68,"Male","Drug A","50 mg","Diabetes","Mild",0
+776,70,"Male","Drug B","20 mg","Diabetes","Severe",1
+732,73,"Male","Drug B","10 mg","Diabetes","Moderate",0
+174,80,"Female","Drug B","20 mg","Diabetes","Mild",0
+274,26,"Male","Placebo","10 mg","Hypertension","Mild",0
+262,48,"Female","Drug B","50 mg","None","Mild",0
+187,71,"Female","Drug B","10 mg","Hypertension","Moderate",0
+258,77,"Male","Placebo","20 mg","Hypertension","Moderate",0
+948,69,"Female","Drug A","50 mg","None","Mild",0
+964,33,"Male","Drug A","10 mg","Diabetes","Severe",1
+853,44,"Male","Drug B","20 mg","None","Mild",0
+438,39,"Female","Drug A","50 mg","None","Severe",1
+533,51,"Male","Drug B","20 mg","Hypertension","Mild",0
+527,31,"Female","Drug A","50 mg","Diabetes","Mild",0
+784,42,"Male","Drug A","20 mg","Diabetes","Moderate",0
+400,56,"Male","Drug B","50 mg","None","Severe",1
+901,29,"Male","Drug A","50 mg","None","Mild",0
+419,66,"Female","Drug A","20 mg","Hypertension","Mild",0
+125,73,"Male","Placebo","20 mg","None","Mild",0
+258,80,"Female","Drug B","50 mg","None","Mild",0
+266,80,"Female","Placebo","50 mg","Diabetes","Moderate",0
+599,40,"Male","Drug B","10 mg","Diabetes","Moderate",0
+197,67,"Female","Placebo","20 mg","Hypertension","Mild",0
+311,39,"Female","Drug A","20 mg","Hypertension","Severe",1
+625,68,"Male","Drug A","20 mg","Diabetes","Moderate",0
+156,45,"Female","Drug B","10 mg","Diabetes","Mild",0
+622,51,"Female","Drug A","20 mg","None","Mild",0
+149,34,"Female","Drug A","20 mg","Diabetes","Moderate",0
+997,29,"Female","Placebo","50 mg","Diabetes","Mild",0
+587,49,"Female","Drug A","20 mg","Hypertension","Mild",0
+823,58,"Female","Drug B","50 mg","Diabetes","Severe",1
+431,57,"Male","Placebo","50 mg","Hypertension","Mild",0
+267,70,"Male","Drug B","50 mg","Diabetes","Mild",0
+279,39,"Female","Placebo","50 mg","None","Moderate",0
+798,47,"Male","Placebo","50 mg","Hypertension","Moderate",0
+896,36,"Male","Placebo","50 mg","None","Severe",1
+662,75,"Female","Drug B","10 mg","Diabetes","Severe",1
+993,46,"Male","Drug B","10 mg","None","Moderate",0
+541,23,"Female","Placebo","20 mg","None","Mild",0
+185,58,"Female","Placebo","10 mg","None","Moderate",0
+953,77,"Male","Drug A","50 mg","Hypertension","Mild",0
+188,75,"Female","Placebo","10 mg","Hypertension","Moderate",0
+122,73,"Male","Placebo","50 mg","None","Mild",0
+987,45,"Female","Drug B","10 mg","Diabetes","Severe",1
+186,66,"Female","Drug A","10 mg","Hypertension","Moderate",0
+507,61,"Male","Placebo","20 mg","Hypertension","Mild",0
+450,74,"Male","Drug A","20 mg","Diabetes","Mild",0
+257,73,"Female","Drug A","10 mg","None","Mild",0
+242,27,"Male","Drug A","20 mg","Hypertension","Mild",0
+2,33,"Female","Drug A","50 mg","Diabetes","Mild",0
+52,26,"Female","Drug B","10 mg","Hypertension","Moderate",0
+482,31,"Male","Drug B","20 mg","None","Severe",1
+908,42,"Male","Placebo","20 mg","None","Mild",0
+414,52,"Male","Placebo","20 mg","None","Mild",0
+29,61,"Female","Drug A","10 mg","Hypertension","Moderate",0
+736,73,"Female","Drug A","20 mg","Diabetes","Moderate",0
+123,22,"Male","Drug B","50 mg","Hypertension","Severe",1
+896,56,"Female","Drug B","50 mg","Hypertension","Mild",0
+743,76,"Male","Placebo","50 mg","Hypertension","Moderate",0
+956,54,"Female","Drug A","50 mg","None","Mild",0
+273,45,"Male","Drug A","10 mg","Diabetes","Mild",0
+741,21,"Male","Drug A","10 mg","Hypertension","Mild",0
+320,29,"Male","Placebo","50 mg","Hypertension","Mild",0
+118,48,"Male","Placebo","10 mg","None","Severe",1
+33,55,"Female","Drug A","20 mg","Hypertension","Mild",0
+888,78,"Male","Drug B","50 mg","None","Mild",0
+741,31,"Male","Drug A","10 mg","Hypertension","Mild",0
+394,41,"Female","Placebo","10 mg","None","Severe",1
+196,39,"Male","Drug B","50 mg","Diabetes","Mild",0
+540,43,"Male","Placebo","20 mg","Hypertension","Severe",1
+617,70,"Male","Drug A","50 mg","None","Mild",0
+769,39,"Male","Placebo","20 mg","Diabetes","Severe",1
+208,63,"Female","Drug A","10 mg","Hypertension","Moderate",0
+316,44,"Female","Drug A","20 mg","Diabetes","Mild",0
+709,42,"Male","Drug A","20 mg","Diabetes","Moderate",0
+336,27,"Male","Placebo","10 mg","Diabetes","Mild",0
+835,61,"Male","Drug B","20 mg","Hypertension","Severe",1
+909,54,"Female","Placebo","50 mg","None","Mild",0
+987,36,"Female","Placebo","50 mg","Diabetes","Moderate",0
+870,56,"Female","Drug B","10 mg","Hypertension","Severe",1
+936,53,"Male","Placebo","10 mg","None","Mild",0
+536,43,"Male","Placebo","10 mg","None","Moderate",0
+417,54,"Male","Drug A","20 mg","Diabetes","Moderate",0
+462,32,"Female","Placebo","50 mg","None","Mild",0
+351,21,"Male","Drug A","50 mg","Hypertension","Moderate",0
+417,73,"Male","Placebo","10 mg","Diabetes","Mild",0
+908,21,"Male","Drug A","50 mg","None","Mild",0
+521,25,"Male","Placebo","50 mg","None","Moderate",0
+693,65,"Female","Drug A","20 mg","None","Mild",0
+278,62,"Male","Drug A","10 mg","Diabetes","Mild",0
+968,26,"Male","Drug B","10 mg","None","Severe",1
+366,61,"Female","Placebo","50 mg","Hypertension","Moderate",0
+406,77,"Female","Drug A","20 mg","None","Mild",0
+196,73,"Female","Placebo","50 mg","None","Mild",0
+795,63,"Male","Placebo","20 mg","Hypertension","Mild",0
+390,53,"Male","Drug A","10 mg","Diabetes","Moderate",0
+173,73,"Male","Placebo","10 mg","Diabetes","Moderate",0
+588,30,"Male","Placebo","20 mg","Hypertension","Severe",1
+847,56,"Female","Drug A","50 mg","Hypertension","Mild",0
+51,72,"Male","Drug A","50 mg","None","Mild",0
+884,69,"Male","Drug A","10 mg","Diabetes","Mild",0
+802,25,"Female","Drug A","10 mg","Diabetes","Moderate",0
+415,38,"Female","Placebo","10 mg","None","Mild",0
+521,30,"Female","Drug A","20 mg","None","Mild",0
+482,66,"Male","Drug B","50 mg","Hypertension","Moderate",0
+612,25,"Female","Placebo","20 mg","Hypertension","Mild",0
+48,64,"Male","Placebo","50 mg","Diabetes","Mild",0
+831,40,"Female","Drug B","20 mg","Diabetes","Mild",0
+657,42,"Male","Placebo","50 mg","Diabetes","Moderate",0
+798,25,"Male","Drug A","50 mg","Diabetes","Severe",1
+778,58,"Female","Placebo","10 mg","Diabetes","Mild",0
+352,32,"Male","Placebo","20 mg","Hypertension","Moderate",0
+723,57,"Female","Drug B","10 mg","None","Mild",0
+331,74,"Male","Drug A","50 mg","None","Mild",0
+868,57,"Male","Placebo","50 mg","Hypertension","Severe",1
+413,52,"Female","Drug B","20 mg","Diabetes","Mild",0
+101,67,"Male","Placebo","10 mg","Hypertension","Severe",1
+371,80,"Female","Drug B","20 mg","Hypertension","Severe",1
+209,61,"Male","Drug B","50 mg","Diabetes","Mild",0
+530,75,"Female","Drug A","20 mg","None","Severe",1
+377,46,"Male","Drug A","20 mg","Diabetes","Moderate",0
+1000,38,"Female","Drug B","50 mg","None","Mild",0
+745,76,"Male","Placebo","50 mg","None","Severe",1
+632,30,"Female","Drug B","10 mg","None","Mild",0
+997,29,"Female","Drug A","20 mg","None","Mild",0
+905,51,"Female","Drug B","20 mg","None","Mild",0
+66,57,"Male","Placebo","10 mg","None","Mild",0
+112,54,"Female","Drug A","50 mg","Hypertension","Mild",0
+531,46,"Male","Placebo","10 mg","Diabetes","Mild",0
+764,31,"Male","Placebo","20 mg","Hypertension","Severe",1
+654,42,"Male","Drug A","20 mg","Hypertension","Mild",0
+175,38,"Male","Drug B","50 mg","Diabetes","Mild",0
+510,63,"Female","Drug A","50 mg","Hypertension","Mild",0
+851,34,"Male","Drug B","10 mg","Hypertension","Mild",0
+934,60,"Male","Drug A","10 mg","Diabetes","Mild",0
+459,21,"Male","Drug B","50 mg","Hypertension","Moderate",0
+823,38,"Female","Placebo","10 mg","Hypertension","Moderate",0
+710,55,"Male","Placebo","20 mg","Diabetes","Severe",1
+294,36,"Male","Placebo","50 mg","None","Mild",0
+941,77,"Female","Drug A","20 mg","Hypertension","Mild",0
+860,34,"Male","Drug A","50 mg","None","Severe",1
+745,71,"Male","Drug B","50 mg","Hypertension","Moderate",0
+12,44,"Female","Drug B","20 mg","Diabetes","Moderate",0
+732,27,"Male","Drug A","20 mg","Hypertension","Mild",0
+515,69,"Male","Placebo","10 mg","Hypertension","Moderate",0
+416,40,"Female","Drug A","50 mg","Hypertension","Mild",0
+244,72,"Female","Drug A","10 mg","Hypertension","Mild",0
+732,35,"Female","Drug A","50 mg","None","Mild",0
+481,31,"Female","Drug B","10 mg","Diabetes","Severe",1
+791,72,"Female","Drug A","20 mg","Diabetes","Mild",0
+605,40,"Male","Drug B","20 mg","Hypertension","Moderate",0
+321,21,"Female","Placebo","50 mg","Hypertension","Mild",0
+729,72,"Male","Drug B","20 mg","None","Moderate",0
+352,39,"Male","Drug A","10 mg","None","Mild",0
+80,27,"Female","Drug B","10 mg","Hypertension","Severe",1
+678,41,"Female","Drug B","20 mg","Diabetes","Severe",1
+96,41,"Female","Placebo","50 mg","Hypertension","Severe",1
+955,76,"Female","Drug A","50 mg","None","Mild",0
+510,30,"Female","Drug A","10 mg","Hypertension","Moderate",0
+892,29,"Male","Drug A","10 mg","None","Mild",0
+73,66,"Female","Placebo","50 mg","Diabetes","Moderate",0
+572,35,"Female","Drug A","50 mg","Hypertension","Moderate",0
+704,76,"Male","Drug B","10 mg","Hypertension","Moderate",0
+479,66,"Male","Placebo","50 mg","Diabetes","Mild",0
+774,27,"Female","Drug B","10 mg","Diabetes","Mild",0
+232,42,"Female","Placebo","50 mg","Hypertension","Mild",0
+902,56,"Male","Placebo","20 mg","Diabetes","Mild",0
+971,25,"Male","Drug B","10 mg","Diabetes","Moderate",0
+397,50,"Male","Drug B","50 mg","None","Severe",1
+765,32,"Male","Drug B","10 mg","None","Mild",0
+763,39,"Female","Drug B","20 mg","None","Mild",0
+16,45,"Female","Placebo","10 mg","None","Mild",0
+585,29,"Male","Drug B","20 mg","Hypertension","Severe",1
+278,45,"Female","Drug B","10 mg","Hypertension","Mild",0
+783,68,"Female","Placebo","20 mg","Hypertension","Mild",0
+364,57,"Female","Drug B","10 mg","Diabetes","Moderate",0
+675,26,"Male","Placebo","20 mg","Diabetes","Mild",0
+174,44,"Male","Drug B","20 mg","None","Mild",0
+181,53,"Male","Drug B","20 mg","None","Mild",0
+664,69,"Female","Placebo","10 mg","None","Moderate",0
+162,61,"Male","Drug A","20 mg","Diabetes","Moderate",0
+177,79,"Female","Placebo","10 mg","Hypertension","Moderate",0
+775,58,"Female","Placebo","20 mg","Hypertension","Mild",0
+823,54,"Female","Placebo","50 mg","Hypertension","Mild",0
+189,66,"Female","Placebo","20 mg","Diabetes","Mild",0
+388,66,"Female","Drug A","50 mg","None","Moderate",0
+837,73,"Male","Placebo","20 mg","Hypertension","Mild",0
+840,37,"Female","Drug B","20 mg","None","Mild",0
+435,67,"Female","Drug B","20 mg","Hypertension","Mild",0
+313,52,"Male","Placebo","20 mg","Hypertension","Moderate",0
+202,44,"Female","Drug A","50 mg","Hypertension","Mild",0
+436,60,"Female","Drug A","20 mg","None","Mild",0
+866,72,"Male","Placebo","10 mg","Hypertension","Severe",1
+201,59,"Male","Drug A","20 mg","None","Mild",0
+177,63,"Male","Drug A","10 mg","Hypertension","Moderate",0
+720,58,"Female","Placebo","50 mg","Hypertension","Moderate",0
+238,63,"Male","Drug A","20 mg","Hypertension","Severe",1
+828,44,"Male","Placebo","50 mg","Hypertension","Moderate",0
+238,80,"Male","Placebo","50 mg","Diabetes","Mild",0
+608,26,"Male","Drug A","20 mg","None","Severe",1
+381,46,"Male","Drug A","10 mg","None","Moderate",0
+214,39,"Female","Placebo","50 mg","None","Moderate",0
+918,28,"Female","Drug B","50 mg","None","Mild",0
+167,51,"Female","Drug B","10 mg","Diabetes","Severe",1
+218,74,"Male","Placebo","20 mg","Diabetes","Moderate",0
+665,73,"Female","Placebo","10 mg","Diabetes","Severe",1
+364,80,"Female","Drug B","20 mg","Diabetes","Mild",0
+257,29,"Male","Placebo","20 mg","Hypertension","Mild",0
+949,73,"Female","Drug B","50 mg","None","Mild",0
+296,68,"Male","Drug A","50 mg","Diabetes","Severe",1
+831,24,"Male","Drug A","20 mg","Diabetes","Severe",1
+680,80,"Female","Drug A","10 mg","None","Severe",1
+392,49,"Male","Placebo","50 mg","Diabetes","Severe",1
+484,78,"Male","Drug A","20 mg","None","Severe",1
+180,32,"Male","Drug A","50 mg","Hypertension","Mild",0
+410,53,"Female","Placebo","20 mg","Diabetes","Severe",1
+719,64,"Female","Drug A","20 mg","Hypertension","Mild",0
+274,26,"Female","Drug A","20 mg","None","Mild",0
+288,45,"Male","Drug A","50 mg","None","Severe",1
+589,35,"Female","Drug A","20 mg","None","Moderate",0
+620,51,"Female","Drug A","10 mg","None","Moderate",0
+931,60,"Female","Drug B","20 mg","None","Moderate",0
+310,50,"Female","Drug B","20 mg","None","Moderate",0
+849,30,"Female","Drug A","10 mg","None","Moderate",0
+435,67,"Female","Drug A","50 mg","None","Mild",0
+326,44,"Female","Drug B","10 mg","Hypertension","Moderate",0
+481,70,"Male","Drug A","10 mg","None","Mild",0
+30,55,"Male","Placebo","20 mg","None","Mild",0
+155,65,"Female","Placebo","10 mg","None","Mild",0
+643,23,"Female","Placebo","50 mg","None","Mild",0
+137,65,"Male","Drug B","50 mg","None","Mild",0
+575,50,"Female","Drug B","20 mg","Diabetes","Mild",0
+961,25,"Male","Drug B","50 mg","Diabetes","Mild",0
+565,66,"Male","Drug A","10 mg","None","Mild",0
+188,71,"Female","Drug A","10 mg","Hypertension","Mild",0
+361,22,"Male","Placebo","10 mg","Hypertension","Moderate",0
+502,61,"Male","Placebo","50 mg","Diabetes","Mild",0
+310,39,"Female","Placebo","10 mg","None","Mild",0
+878,30,"Male","Placebo","20 mg","Hypertension","Mild",0
+436,67,"Female","Drug B","20 mg","None","Severe",1
+170,40,"Male","Placebo","50 mg","Diabetes","Moderate",0
+936,60,"Female","Drug B","50 mg","None","Moderate",0
+399,62,"Male","Drug B","50 mg","Hypertension","Mild",0
+875,22,"Male","Drug A","50 mg","Hypertension","Severe",1
+164,26,"Male","Placebo","20 mg","Diabetes","Severe",1
+356,68,"Male","Placebo","10 mg","Hypertension","Mild",0
+361,31,"Male","Placebo","10 mg","Hypertension","Mild",0
+146,65,"Male","Placebo","50 mg","None","Moderate",0
+810,23,"Female","Drug A","20 mg","None","Mild",0
+830,42,"Male","Placebo","50 mg","Hypertension","Moderate",0
+704,76,"Male","Drug A","10 mg","Diabetes","Mild",0
+443,39,"Female","Drug B","10 mg","Diabetes","Moderate",0
+469,52,"Male","Placebo","20 mg","None","Mild",0
+310,36,"Female","Drug B","10 mg","None","Mild",0
+507,43,"Female","Placebo","50 mg","Hypertension","Moderate",0
+799,25,"Male","Drug A","20 mg","None","Mild",0
+499,75,"Female","Placebo","10 mg","Diabetes","Severe",1
+785,23,"Female","Placebo","20 mg","Diabetes","Mild",0
+954,29,"Male","Drug A","50 mg","None","Mild",0
+40,61,"Male","Placebo","20 mg","Hypertension","Mild",0
+587,62,"Female","Placebo","20 mg","None","Mild",0
+836,37,"Female","Placebo","10 mg","Diabetes","Moderate",0
+632,20,"Female","Placebo","10 mg","Diabetes","Moderate",0
+723,72,"Female","Drug A","10 mg","Diabetes","Severe",1
+314,44,"Female","Drug B","50 mg","Hypertension","Mild",0
+963,26,"Female","Drug B","10 mg","Hypertension","Mild",0
+386,22,"Female","Placebo","50 mg","None","Mild",0
+123,22,"Male","Drug B","10 mg","None","Moderate",0
+838,37,"Female","Placebo","50 mg","None","Mild",0
+277,39,"Male","Drug A","20 mg","Hypertension","Mild",0
+266,48,"Female","Drug B","50 mg","Diabetes","Mild",0
+291,42,"Female","Drug B","20 mg","None","Moderate",0
+107,31,"Female","Placebo","10 mg","Diabetes","Severe",1
+327,40,"Female","Placebo","20 mg","Diabetes","Mild",0
+245,44,"Male","Drug A","50 mg","None","Mild",0
+584,70,"Male","Drug B","50 mg","Hypertension","Moderate",0
+413,38,"Male","Drug B","20 mg","Hypertension","Mild",0
+827,44,"Male","Placebo","50 mg","Hypertension","Moderate",0
+788,25,"Male","Drug A","20 mg","Diabetes","Mild",0
+286,20,"Female","Drug A","20 mg","None","Mild",0
+972,32,"Male","Drug A","10 mg","Diabetes","Moderate",0
+226,25,"Male","Drug A","10 mg","Diabetes","Mild",0
+475,21,"Female","Placebo","50 mg","Diabetes","Severe",1
+214,39,"Female","Drug B","20 mg","Diabetes","Moderate",0
+42,46,"Male","Placebo","50 mg","None","Severe",1
+220,64,"Female","Placebo","20 mg","Diabetes","Moderate",0
+94,68,"Female","Drug A","50 mg","Hypertension","Moderate",0
+588,29,"Male","Drug A","20 mg","Diabetes","Mild",0
+944,79,"Female","Drug B","50 mg","None","Severe",1
+104,44,"Female","Placebo","50 mg","Hypertension","Moderate",0
+680,80,"Male","Drug A","10 mg","None","Severe",1
+858,55,"Male","Placebo","50 mg","Diabetes","Mild",0
+906,51,"Male","Placebo","50 mg","Hypertension","Mild",0
+403,48,"Female","Drug B","50 mg","None","Severe",1
+90,23,"Male","Placebo","10 mg","Diabetes","Severe",1
+705,62,"Male","Placebo","10 mg","Diabetes","Moderate",0
+625,66,"Female","Drug B","20 mg","Hypertension","Moderate",0
+327,40,"Male","Drug A","10 mg","Hypertension","Moderate",0
+373,25,"Male","Placebo","10 mg","None","Mild",0
+970,78,"Male","Placebo","10 mg","Hypertension","Severe",1
+853,61,"Female","Placebo","50 mg","None","Mild",0
+678,59,"Female","Placebo","10 mg","Diabetes","Mild",0
+131,70,"Male","Placebo","10 mg","Hypertension","Mild",0
+780,77,"Female","Drug B","50 mg","Hypertension","Mild",0
+334,25,"Male","Placebo","50 mg","Hypertension","Moderate",0
+805,20,"Female","Drug A","20 mg","Diabetes","Mild",0
+691,65,"Female","Placebo","20 mg","None","Mild",0
+83,41,"Male","Drug A","20 mg","None","Moderate",0
+124,40,"Female","Drug A","50 mg","Hypertension","Moderate",0
+572,34,"Female","Placebo","20 mg","Diabetes","Mild",0
+356,21,"Female","Drug B","50 mg","Hypertension","Moderate",0
+81,27,"Female","Placebo","50 mg","None","Severe",1
+15,76,"Male","Drug B","20 mg","None","Mild",0
+381,54,"Female","Drug B","20 mg","Hypertension","Mild",0
+941,52,"Male","Drug A","10 mg","None","Mild",0
+755,32,"Male","Placebo","10 mg","None","Moderate",0
+507,29,"Male","Placebo","10 mg","Diabetes","Mild",0
+415,53,"Male","Drug A","50 mg","None","Mild",0
+288,45,"Male","Drug A","20 mg","Hypertension","Moderate",0
+142,73,"Male","Drug B","20 mg","Hypertension","Mild",0
+581,56,"Male","Drug B","20 mg","Diabetes","Mild",0
+158,26,"Male","Drug A","20 mg","Hypertension","Severe",1
+770,46,"Male","Placebo","20 mg","Hypertension","Severe",1
+926,67,"Male","Placebo","50 mg","Hypertension","Moderate",0
+34,28,"Female","Drug B","50 mg","Hypertension","Moderate",0
+336,44,"Male","Drug A","10 mg","Hypertension","Moderate",0
+797,56,"Female","Drug A","10 mg","Hypertension","Mild",0
+488,35,"Male","Drug A","10 mg","Diabetes","Mild",0
+24,45,"Male","Drug B","10 mg","Hypertension","Moderate",0
+473,47,"Female","Drug B","10 mg","Diabetes","Moderate",0
+590,49,"Female","Drug B","20 mg","Diabetes","Severe",1
+857,55,"Male","Placebo","20 mg","None","Mild",0
+131,53,"Male","Placebo","10 mg","None","Mild",0
+48,60,"Male","Drug B","50 mg","None","Mild",0
+937,30,"Female","Placebo","10 mg","None","Moderate",0
+67,52,"Male","Placebo","10 mg","None","Severe",1
+342,67,"Male","Placebo","50 mg","Diabetes","Mild",0
+276,44,"Male","Drug A","20 mg","Hypertension","Moderate",0
+821,55,"Male","Drug A","50 mg","Hypertension","Moderate",0
+642,70,"Male","Drug B","50 mg","Hypertension","Moderate",0
+52,51,"Female","Drug B","20 mg","None","Moderate",0
+469,31,"Female","Drug A","20 mg","None","Moderate",0
+511,28,"Male","Drug B","50 mg","Diabetes","Mild",0
+929,67,"Male","Drug A","10 mg","Diabetes","Severe",1
+421,66,"Female","Drug A","20 mg","Diabetes","Severe",1
+596,76,"Female","Placebo","50 mg","Diabetes","Moderate",0
+69,57,"Male","Placebo","20 mg","Diabetes","Mild",0
+817,73,"Female","Placebo","20 mg","None","Mild",0
+758,26,"Male","Drug B","20 mg","None","Moderate",0
+730,45,"Female","Drug B","50 mg","None","Severe",1
+420,70,"Female","Drug A","10 mg","Diabetes","Mild",0
+106,65,"Male","Drug B","50 mg","None","Severe",1
+84,73,"Male","Drug B","20 mg","Hypertension","Severe",1
+626,47,"Male","Drug A","20 mg","Diabetes","Mild",0
+723,72,"Female","Placebo","50 mg","Diabetes","Severe",1
+752,59,"Male","Drug A","10 mg","Diabetes","Mild",0
+707,34,"Female","Drug B","20 mg","Diabetes","Mild",0
+868,72,"Male","Drug B","50 mg","None","Mild",0
+164,61,"Female","Placebo","20 mg","None","Severe",1
+296,48,"Female","Placebo","10 mg","Hypertension","Mild",0
+528,46,"Female","Placebo","20 mg","Diabetes","Mild",0
+68,57,"Male","Placebo","10 mg","Hypertension","Mild",0
+1000,28,"Male","Drug A","50 mg","None","Moderate",0
+732,59,"Male","Drug B","20 mg","Hypertension","Severe",1
+897,27,"Female","Placebo","10 mg","Diabetes","Mild",0
+751,22,"Male","Placebo","50 mg","None","Mild",0
+688,50,"Male","Placebo","20 mg","Diabetes","Mild",0
+198,67,"Male","Placebo","50 mg","Hypertension","Mild",0
+715,55,"Male","Placebo","20 mg","Hypertension","Severe",1
+321,21,"Female","Drug A","50 mg","Hypertension","Moderate",0
+437,39,"Female","Drug B","20 mg","Diabetes","Moderate",0
+217,64,"Male","Placebo","50 mg","Diabetes","Severe",1
+997,39,"Female","Placebo","50 mg","None","Mild",0
+100,59,"Female","Drug A","20 mg","None","Mild",0
+355,36,"Male","Drug A","50 mg","Diabetes","Mild",0
+445,58,"Female","Placebo","50 mg","None","Moderate",0
+906,52,"Female","Drug B","20 mg","Hypertension","Mild",0
+984,65,"Male","Drug A","20 mg","Hypertension","Mild",0
+947,79,"Female","Placebo","50 mg","Hypertension","Moderate",0
+511,72,"Female","Drug A","50 mg","Diabetes","Mild",0
+700,42,"Male","Drug A","10 mg","Diabetes","Mild",0
+342,72,"Male","Drug B","10 mg","None","Mild",0
+266,29,"Female","Placebo","20 mg","None","Moderate",0
+538,22,"Female","Placebo","20 mg","Diabetes","Mild",0
+566,41,"Male","Placebo","50 mg","Diabetes","Severe",1
+405,62,"Male","Drug A","50 mg","None","Mild",0
+497,65,"Male","Drug A","50 mg","Hypertension","Moderate",0
+562,73,"Male","Drug A","10 mg","None","Mild",0
+842,23,"Female","Placebo","20 mg","Diabetes","Severe",1
+882,44,"Male","Placebo","10 mg","Diabetes","Severe",1
+147,34,"Female","Drug A","50 mg","Diabetes","Mild",0
+285,60,"Male","Placebo","10 mg","None","Moderate",0
+532,51,"Male","Drug B","10 mg","Hypertension","Moderate",0
+318,54,"Male","Drug B","20 mg","Hypertension","Moderate",0
+763,55,"Female","Placebo","20 mg","None","Mild",0
+6,62,"Female","Drug A","50 mg","None","Severe",1
+55,26,"Male","Drug B","10 mg","Hypertension","Moderate",0
+352,68,"Male","Drug B","50 mg","Diabetes","Mild",0
+525,38,"Male","Placebo","20 mg","Diabetes","Severe",1
+613,26,"Male","Drug B","10 mg","None","Moderate",0
+656,42,"Male","Drug A","20 mg","Diabetes","Moderate",0
+718,55,"Female","Drug A","50 mg","Diabetes","Mild",0
+899,29,"Female","Placebo","10 mg","Diabetes","Mild",0
+869,23,"Female","Drug B","50 mg","Diabetes","Mild",0
+103,51,"Female","Placebo","20 mg","None","Moderate",0
+264,72,"Male","Drug A","50 mg","Diabetes","Moderate",0
+142,73,"Male","Placebo","10 mg","Hypertension","Mild",0
+737,21,"Male","Drug A","10 mg","Hypertension","Moderate",0
+762,32,"Male","Placebo","20 mg","None","Moderate",0
+236,80,"Female","Drug A","20 mg","Diabetes","Mild",0
+25,54,"Female","Drug A","20 mg","Hypertension","Severe",1
+392,80,"Male","Drug B","50 mg","None","Severe",1
+643,57,"Female","Placebo","50 mg","None","Severe",1
+789,26,"Male","Placebo","20 mg","None","Mild",0
+335,44,"Female","Drug B","50 mg","Hypertension","Mild",0
+849,30,"Male","Drug B","10 mg","Hypertension","Mild",0
+43,31,"Male","Drug B","50 mg","Hypertension","Mild",0
+143,65,"Male","Placebo","50 mg","Diabetes","Moderate",0
+886,50,"Female","Drug A","10 mg","Diabetes","Mild",0
+852,80,"Male","Placebo","10 mg","None","Severe",1
+769,44,"Male","Drug A","10 mg","Diabetes","Moderate",0
+206,68,"Female","Drug A","50 mg","Hypertension","Mild",0
+809,53,"Female","Placebo","10 mg","Diabetes","Severe",1
+799,47,"Male","Drug A","20 mg","None","Mild",0
+355,48,"Female","Drug A","50 mg","Diabetes","Mild",0
+346,72,"Female","Drug B","10 mg","Hypertension","Moderate",0
+960,21,"Female","Drug B","10 mg","Hypertension","Severe",1
+109,44,"Female","Placebo","50 mg","Diabetes","Mild",0
+807,53,"Female","Drug A","50 mg","Diabetes","Mild",0
+312,49,"Male","Placebo","20 mg","Hypertension","Moderate",0
+608,42,"Female","Drug A","20 mg","None","Severe",1
+977,36,"Female","Placebo","10 mg","Diabetes","Moderate",0
+74,71,"Female","Drug A","50 mg","Diabetes","Severe",1
+331,27,"Male","Placebo","50 mg","Diabetes","Mild",0
+717,55,"Male","Drug B","20 mg","None","Moderate",0
+444,39,"Male","Drug B","10 mg","None","Severe",1
+409,47,"Female","Drug B","50 mg","Hypertension","Severe",1
+484,78,"Female","Drug A","20 mg","Diabetes","Mild",0
+354,26,"Female","Drug A","10 mg","Hypertension","Moderate",0
+514,69,"Female","Drug A","50 mg","Diabetes","Mild",0
+659,30,"Male","Drug B","50 mg","Diabetes","Mild",0
+241,42,"Female","Drug A","50 mg","Hypertension","Severe",1
+63,27,"Male","Drug B","50 mg","None","Mild",0
+969,32,"Male","Placebo","10 mg","Diabetes","Mild",0
+562,66,"Male","Placebo","10 mg","Hypertension","Severe",1
+510,28,"Male","Drug A","10 mg","None","Moderate",0
+528,51,"Male","Drug B","20 mg","Hypertension","Mild",0
+214,64,"Male","Placebo","20 mg","Diabetes","Mild",0
+800,28,"Female","Drug B","20 mg","None","Mild",0
+909,34,"Female","Drug B","50 mg","Diabetes","Mild",0
+995,46,"Male","Drug B","10 mg","Hypertension","Moderate",0
+660,75,"Female","Drug A","50 mg","Hypertension","Moderate",0
+709,45,"Male","Placebo","10 mg","None","Moderate",0
+537,25,"Male","Drug A","20 mg","Hypertension","Moderate",0
+643,70,"Male","Drug B","50 mg","Hypertension","Moderate",0
+965,47,"Male","Placebo","10 mg","Hypertension","Severe",1
+91,23,"Male","Placebo","20 mg","Diabetes","Moderate",0
+479,69,"Male","Drug B","20 mg","Hypertension","Moderate",0
+160,24,"Female","Drug B","50 mg","None","Mild",0
+573,34,"Female","Drug A","10 mg","Hypertension","Moderate",0
+96,70,"Male","Placebo","10 mg","None","Moderate",0
+64,46,"Male","Placebo","10 mg","Diabetes","Mild",0
+949,75,"Female","Drug B","10 mg","Hypertension","Moderate",0
+194,49,"Female","Drug A","10 mg","None","Mild",0
+590,62,"Male","Drug B","20 mg","None","Mild",0
+515,27,"Male","Placebo","50 mg","Diabetes","Mild",0
+952,53,"Male","Drug A","20 mg","Diabetes","Mild",0
+765,26,"Female","Placebo","10 mg","None","Severe",1
+414,38,"Female","Drug B","50 mg","Diabetes","Mild",0
+765,31,"Male","Drug A","10 mg","Hypertension","Mild",0
+425,69,"Male","Placebo","10 mg","None","Mild",0
+240,42,"Male","Placebo","50 mg","Hypertension","Mild",0
+244,80,"Female","Drug B","50 mg","Hypertension","Mild",0
+16,46,"Male","Drug B","50 mg","Diabetes","Mild",0
+887,50,"Male","Placebo","20 mg","Hypertension","Mild",0
+431,51,"Female","Drug A","50 mg","Diabetes","Severe",1
+514,69,"Female","Placebo","50 mg","Diabetes","Moderate",0
+96,73,"Male","Drug B","20 mg","Hypertension","Severe",1
+211,55,"Male","Drug B","20 mg","None","Mild",0
+887,79,"Female","Drug B","50 mg","Hypertension","Mild",0
+114,76,"Male","Drug A","10 mg","Hypertension","Mild",0
+799,25,"Male","Drug A","20 mg","Diabetes","Mild",0
+628,39,"Male","Placebo","10 mg","Diabetes","Moderate",0
+748,28,"Female","Drug A","10 mg","None","Mild",0
+332,72,"Female","Drug A","50 mg","Diabetes","Severe",1
+242,27,"Female","Drug A","50 mg","Diabetes","Mild",0
+880,30,"Male","Placebo","10 mg","Diabetes","Mild",0
+389,22,"Male","Placebo","20 mg","None","Moderate",0
+503,58,"Female","Placebo","50 mg","Hypertension","Moderate",0
+862,59,"Female","Placebo","50 mg","None","Moderate",0
+937,74,"Male","Drug B","50 mg","None","Moderate",0
+182,32,"Female","Placebo","10 mg","Diabetes","Moderate",0
+53,26,"Male","Drug B","10 mg","Hypertension","Severe",1
+783,58,"Female","Drug A","10 mg","Hypertension","Mild",0
+279,39,"Female","Drug B","10 mg","None","Moderate",0
+545,61,"Female","Drug B","50 mg","None","Moderate",0
+165,25,"Male","Drug A","10 mg","Hypertension","Moderate",0
+135,41,"Female","Placebo","10 mg","None","Moderate",0
+345,59,"Male","Drug A","50 mg","None","Mild",0
+256,73,"Female","Placebo","50 mg","None","Severe",1
+575,38,"Female","Drug A","10 mg","None","Mild",0
+63,37,"Male","Drug B","50 mg","Hypertension","Severe",1
+938,48,"Female","Placebo","50 mg","None","Mild",0
+779,62,"Male","Placebo","20 mg","Hypertension","Mild",0
+277,71,"Male","Drug B","20 mg","None","Mild",0
+435,67,"Female","Drug B","20 mg","Diabetes","Severe",1
+764,60,"Male","Placebo","50 mg","Hypertension","Severe",1
+44,29,"Male","Drug B","10 mg","Hypertension","Mild",0
+623,66,"Male","Drug A","20 mg","None","Moderate",0
+764,27,"Male","Drug A","20 mg","Hypertension","Mild",0
+70,40,"Female","Placebo","10 mg","Hypertension","Mild",0
+907,25,"Female","Placebo","50 mg","Diabetes","Moderate",0
+783,77,"Male","Placebo","20 mg","Hypertension","Mild",0
+737,73,"Male","Drug B","10 mg","Diabetes","Moderate",0
+693,52,"Male","Placebo","20 mg","Diabetes","Mild",0
+651,43,"Female","Drug A","10 mg","Diabetes","Mild",0
+571,41,"Female","Placebo","10 mg","Hypertension","Mild",0
+46,60,"Male","Placebo","50 mg","Hypertension","Severe",1
+944,77,"Male","Drug B","10 mg","None","Severe",1
+752,59,"Male","Drug A","10 mg","Hypertension","Moderate",0
+432,59,"Male","Drug B","50 mg","Diabetes","Severe",1
+233,80,"Female","Drug B","20 mg","Diabetes","Mild",0
+341,67,"Male","Drug B","20 mg","Hypertension","Moderate",0
+133,41,"Female","Placebo","20 mg","None","Moderate",0
+878,51,"Female","Drug B","10 mg","Hypertension","Severe",1
+247,27,"Male","Placebo","50 mg","Diabetes","Mild",0
+729,60,"Male","Drug B","10 mg","None","Mild",0
+513,72,"Female","Placebo","10 mg","Hypertension","Moderate",0
+712,55,"Male","Placebo","20 mg","None","Moderate",0
+719,22,"Female","Drug B","50 mg","Diabetes","Severe",1
+603,30,"Male","Drug A","20 mg","None","Mild",0
+31,45,"Male","Drug B","20 mg","None","Moderate",0
+746,52,"Male","Placebo","50 mg","Diabetes","Mild",0
+606,27,"Male","Drug A","20 mg","Hypertension","Mild",0
+730,36,"Female","Drug A","50 mg","Diabetes","Mild",0
+294,68,"Male","Drug B","10 mg","Hypertension","Mild",0
+328,37,"Female","Placebo","50 mg","None","Severe",1
+933,60,"Female","Drug B","50 mg","Diabetes","Mild",0
+325,44,"Female","Drug A","20 mg","Hypertension","Mild",0
+871,24,"Male","Drug B","10 mg","Hypertension","Severe",1
+223,32,"Male","Placebo","50 mg","Diabetes","Severe",1
+839,61,"Female","Drug A","10 mg","Diabetes","Moderate",0
+746,76,"Male","Placebo","50 mg","None","Severe",1
+61,27,"Female","Placebo","10 mg","None","Severe",1
+884,79,"Male","Drug B","20 mg","Hypertension","Mild",0
+963,26,"Female","Drug B","50 mg","None","Mild",0
+306,25,"Male","Drug A","10 mg","Hypertension","Severe",1
+767,29,"Male","Placebo","10 mg","None","Moderate",0
+631,21,"Male","Drug A","20 mg","Hypertension","Moderate",0
+68,40,"Male","Placebo","10 mg","None","Mild",0
+357,52,"Male","Drug B","50 mg","Hypertension","Mild",0
+132,63,"Female","Drug B","20 mg","None","Mild",0
+950,54,"Female","Drug B","50 mg","None","Mild",0
+320,29,"Male","Placebo","50 mg","Diabetes","Severe",1
+647,72,"Male","Drug A","20 mg","Diabetes","Mild",0
+292,45,"Male","Drug B","20 mg","Hypertension","Mild",0
+161,46,"Male","Drug B","50 mg","Hypertension","Mild",0
+788,36,"Male","Placebo","20 mg","None","Mild",0
+388,42,"Male","Placebo","10 mg","Hypertension","Moderate",0
+364,76,"Female","Placebo","20 mg","Hypertension","Moderate",0
+899,29,"Male","Drug A","20 mg","Diabetes","Severe",1
+874,22,"Male","Placebo","50 mg","Hypertension","Mild",0
+745,76,"Male","Drug A","20 mg","Hypertension","Severe",1
+785,26,"Male","Placebo","20 mg","Hypertension","Mild",0
+586,80,"Male","Drug B","20 mg","None","Severe",1
+119,27,"Female","Drug A","10 mg","None","Severe",1
+239,35,"Female","Drug B","50 mg","None","Mild",0
+370,76,"Female","Drug B","10 mg","Hypertension","Moderate",0
+449,58,"Female","Placebo","20 mg","None","Mild",0
+478,31,"Male","Drug A","50 mg","Diabetes","Mild",0
+431,61,"Female","Placebo","20 mg","Diabetes","Severe",1
+149,59,"Female","Placebo","10 mg","None","Severe",1
+133,36,"Female","Drug B","50 mg","Hypertension","Mild",0
+629,39,"Male","Placebo","20 mg","Hypertension","Moderate",0
+666,21,"Male","Drug A","10 mg","Hypertension","Moderate",0
+804,53,"Female","Placebo","50 mg","None","Mild",0
+940,75,"Male","Drug B","20 mg","Hypertension","Mild",0
+217,74,"Male","Drug B","20 mg","Hypertension","Mild",0
+812,53,"Female","Placebo","50 mg","None","Moderate",0
+501,47,"Female","Placebo","10 mg","None","Moderate",0
+341,72,"Male","Placebo","10 mg","Hypertension","Mild",0
+831,61,"Female","Drug B","20 mg","None","Severe",1
+614,25,"Male","Placebo","10 mg","None","Moderate",0
+206,61,"Male","Drug A","20 mg","Hypertension","Mild",0
+822,24,"Male","Drug A","20 mg","Hypertension","Mild",0
+589,49,"Male","Placebo","20 mg","None","Severe",1
+431,61,"Male","Drug A","20 mg","Hypertension","Mild",0
+724,72,"Male","Drug B","50 mg","Hypertension","Moderate",0
+41,64,"Female","Placebo","50 mg","Hypertension","Mild",0
+825,44,"Male","Placebo","10 mg","Diabetes","Moderate",0
+914,21,"Female","Placebo","50 mg","None","Mild",0
+762,79,"Female","Placebo","20 mg","None","Moderate",0
+2,50,"Female","Drug B","20 mg","Diabetes","Mild",0
+780,62,"Male","Drug A","50 mg","None","Mild",0
+894,27,"Male","Placebo","10 mg","Hypertension","Mild",0
+934,62,"Female","Drug B","10 mg","None","Severe",1
+741,27,"Male","Drug A","10 mg","Hypertension","Mild",0
+560,41,"Male","Placebo","50 mg","None","Mild",0
+166,55,"Male","Drug B","50 mg","Hypertension","Severe",1
+205,39,"Male","Drug B","50 mg","Diabetes","Mild",0
+862,43,"Male","Placebo","10 mg","Diabetes","Moderate",0
+53,44,"Male","Drug B","50 mg","Diabetes","Moderate",0
+829,44,"Male","Drug B","20 mg","Hypertension","Moderate",0
+698,36,"Female","Drug A","20 mg","None","Mild",0
+401,47,"Male","Placebo","10 mg","Hypertension","Mild",0
+839,73,"Male","Drug A","20 mg","Hypertension","Severe",1
+611,26,"Male","Drug A","20 mg","Hypertension","Moderate",0
+681,80,"Female","Drug A","50 mg","None","Moderate",0
+283,60,"Male","Drug A","20 mg","Hypertension","Mild",0
+454,74,"Male","Drug A","20 mg","None","Mild",0
+735,27,"Female","Drug B","50 mg","Hypertension","Moderate",0
+451,70,"Female","Drug A","10 mg","None","Mild",0
+905,29,"Female","Placebo","10 mg","None","Severe",1
+756,35,"Female","Placebo","10 mg","Diabetes","Severe",1
+258,77,"Female","Drug A","10 mg","Hypertension","Moderate",0
+231,64,"Male","Drug A","20 mg","Hypertension","Mild",0
+236,51,"Female","Drug B","20 mg","Hypertension","Moderate",0
+203,67,"Female","Placebo","50 mg","Hypertension","Severe",1
+732,31,"Male","Drug B","50 mg","Hypertension","Mild",0
+789,36,"Male","Placebo","20 mg","Diabetes","Severe",1
+802,28,"Male","Placebo","20 mg","None","Mild",0
+656,30,"Male","Drug A","10 mg","Hypertension","Mild",0
+693,52,"Male","Placebo","20 mg","Diabetes","Mild",0
+297,61,"Male","Drug A","10 mg","Diabetes","Mild",0
+584,49,"Female","Drug A","50 mg","None","Mild",0
+875,42,"Male","Drug B","10 mg","Hypertension","Mild",0
+18,46,"Female","Drug A","10 mg","None","Mild",0
+351,26,"Female","Placebo","10 mg","Hypertension","Mild",0
+18,45,"Female","Placebo","20 mg","Hypertension","Moderate",0
+84,36,"Female","Placebo","50 mg","None","Moderate",0
+370,57,"Female","Placebo","20 mg","Hypertension","Mild",0
+415,36,"Male","Placebo","50 mg","Diabetes","Mild",0
+988,33,"Male","Drug A","50 mg","Diabetes","Mild",0
+347,68,"Male","Placebo","10 mg","Hypertension","Mild",0
+961,33,"Female","Drug A","20 mg","None","Severe",1
+65,76,"Male","Placebo","10 mg","Hypertension","Mild",0
+390,28,"Male","Placebo","50 mg","None","Mild",0
+836,21,"Female","Placebo","10 mg","None","Moderate",0
+805,45,"Male","Placebo","10 mg","Diabetes","Mild",0
+97,73,"Male","Placebo","20 mg","None","Severe",1
+963,36,"Female","Placebo","10 mg","None","Severe",1
+459,70,"Female","Drug A","20 mg","Hypertension","Severe",1
+294,61,"Male","Drug A","10 mg","Hypertension","Mild",0
+761,26,"Female","Drug A","10 mg","None","Mild",0
+275,42,"Female","Drug A","20 mg","Diabetes","Moderate",0
+168,51,"Female","Placebo","10 mg","None","Severe",1
+188,66,"Female","Drug B","10 mg","None","Mild",0
+933,75,"Male","Drug B","50 mg","Hypertension","Mild",0
+742,28,"Female","Drug B","50 mg","Hypertension","Moderate",0
+279,26,"Male","Drug A","20 mg","None","Moderate",0
+988,65,"Male","Drug B","50 mg","Diabetes","Moderate",0
+346,72,"Female","Drug A","20 mg","Hypertension","Mild",0
+791,72,"Female","Drug A","20 mg","Diabetes","Moderate",0
+474,69,"Female","Placebo","10 mg","Diabetes","Severe",1
+451,74,"Male","Drug A","50 mg","None","Mild",0
+154,42,"Male","Drug B","50 mg","Hypertension","Mild",0
+126,26,"Male","Drug A","20 mg","Diabetes","Moderate",0
+940,74,"Female","Drug B","10 mg","None","Severe",1
+348,39,"Female","Placebo","20 mg","Diabetes","Mild",0
+927,62,"Female","Drug B","10 mg","Diabetes","Mild",0
+726,64,"Female","Placebo","10 mg","Diabetes","Mild",0
+355,37,"Female","Placebo","20 mg","Hypertension","Severe",1
+258,52,"Male","Placebo","10 mg","None","Moderate",0
+696,49,"Female","Drug B","20 mg","Diabetes","Mild",0
+37,64,"Female","Placebo","10 mg","None","Moderate",0
+783,76,"Female","Drug A","20 mg","Diabetes","Mild",0
+585,29,"Male","Drug A","20 mg","None","Moderate",0
+28,26,"Female","Drug A","10 mg","Hypertension","Severe",1
+902,57,"Female","Placebo","50 mg","Diabetes","Mild",0
+957,53,"Male","Drug A","10 mg","None","Severe",1
+738,33,"Female","Placebo","50 mg","Hypertension","Moderate",0
+258,80,"Female","Drug A","50 mg","Hypertension","Moderate",0
+738,31,"Male","Drug A","10 mg","Hypertension","Mild",0
+600,21,"Male","Drug A","10 mg","Hypertension","Moderate",0
+138,41,"Female","Drug A","50 mg","None","Mild",0
+255,42,"Female","Drug B","50 mg","None","Mild",0
+802,33,"Male","Placebo","20 mg","None","Mild",0
+95,73,"Male","Placebo","20 mg","None","Severe",1
+55,79,"Male","Drug A","50 mg","Hypertension","Severe",1
+349,52,"Male","Placebo","10 mg","None","Mild",0
+196,73,"Female","Drug B","20 mg","Hypertension","Mild",0
+338,59,"Male","Drug A","50 mg","Hypertension","Severe",1
+684,80,"Male","Placebo","10 mg","Diabetes","Severe",1
+477,69,"Male","Drug A","10 mg","Diabetes","Mild",0
+500,64,"Male","Placebo","50 mg","Diabetes","Mild",0
+574,50,"Female","Drug A","50 mg","None","Moderate",0
+272,32,"Male","Placebo","50 mg","Diabetes","Moderate",0
+482,72,"Female","Drug A","10 mg","None","Mild",0
+242,28,"Female","Placebo","10 mg","None","Moderate",0
+300,45,"Male","Drug B","50 mg","Hypertension","Severe",1
+880,23,"Female","Placebo","50 mg","Diabetes","Mild",0
+432,51,"Female","Drug B","20 mg","Hypertension","Mild",0
+568,72,"Female","Drug A","10 mg","None","Mild",0
+884,29,"Female","Drug A","10 mg","Hypertension","Mild",0
+683,59,"Female","Placebo","20 mg","Hypertension","Moderate",0
+26,26,"Male","Drug A","10 mg","None","Moderate",0
+443,32,"Male","Placebo","50 mg","Diabetes","Moderate",0
+485,35,"Male","Drug A","50 mg","Hypertension","Mild",0
+707,34,"Male","Placebo","20 mg","Hypertension","Mild",0
+965,36,"Male","Placebo","10 mg","Diabetes","Mild",0
+376,54,"Male","Placebo","20 mg","Diabetes","Moderate",0
+530,74,"Male","Drug A","20 mg","None","Moderate",0
+502,39,"Female","Drug B","50 mg","Diabetes","Mild",0
+681,48,"Female","Placebo","20 mg","None","Mild",0
+205,39,"Female","Placebo","10 mg","Diabetes","Mild",0
+767,60,"Male","Drug B","10 mg","Diabetes","Mild",0
+798,47,"Male","Placebo","10 mg","Diabetes","Moderate",0
+184,53,"Male","Drug A","20 mg","None","Moderate",0
+628,66,"Male","Drug B","20 mg","Diabetes","Mild",0
+327,27,"Male","Drug A","50 mg","Hypertension","Moderate",0
+872,43,"Female","Drug B","10 mg","Hypertension","Severe",1
+532,75,"Female","Drug B","20 mg","None","Moderate",0
+541,47,"Male","Placebo","10 mg","Diabetes","Severe",1
+964,27,"Male","Drug B","20 mg","Diabetes","Mild",0
+518,72,"Female","Drug A","10 mg","Hypertension","Moderate",0
+512,30,"Female","Drug B","50 mg","Diabetes","Mild",0
+34,45,"Male","Placebo","50 mg","Hypertension","Severe",1
+973,57,"Male","Drug B","10 mg","Diabetes","Mild",0
+581,79,"Female","Drug B","20 mg","None","Moderate",0
+766,46,"Female","Placebo","10 mg","None","Mild",0
+704,76,"Female","Drug B","20 mg","Hypertension","Mild",0
+881,48,"Male","Placebo","50 mg","Diabetes","Mild",0
+361,22,"Male","Placebo","10 mg","Hypertension","Mild",0
+179,53,"Male","Placebo","50 mg","Hypertension","Mild",0
+377,54,"Female","Placebo","20 mg","Diabetes","Moderate",0
+554,29,"Male","Drug A","10 mg","Hypertension","Severe",1
+548,74,"Male","Placebo","20 mg","Diabetes","Mild",0
+812,45,"Male","Placebo","20 mg","None","Severe",1
+941,52,"Male","Placebo","10 mg","None","Mild",0
+774,39,"Female","Placebo","10 mg","Diabetes","Mild",0
+505,36,"Female","Placebo","20 mg","Diabetes","Mild",0
+668,53,"Female","Drug B","50 mg","None","Severe",1
+691,65,"Female","Placebo","20 mg","None","Mild",0
+38,61,"Female","Placebo","50 mg","Hypertension","Moderate",0
+251,42,"Female","Drug B","20 mg","None","Mild",0
+33,54,"Female","Placebo","20 mg","Hypertension","Moderate",0
+764,26,"Female","Placebo","20 mg","Hypertension","Severe",1
+221,65,"Female","Placebo","50 mg","Hypertension","Mild",0
+155,42,"Female","Drug B","50 mg","Hypertension","Mild",0
+554,57,"Male","Placebo","50 mg","Diabetes","Moderate",0
+740,21,"Female","Placebo","10 mg","Diabetes","Moderate",0
+44,31,"Male","Drug A","50 mg","Hypertension","Mild",0
+263,48,"Female","Drug B","10 mg","Diabetes","Mild",0
+702,76,"Female","Drug B","20 mg","None","Moderate",0
+258,79,"Female","Drug A","50 mg","Hypertension","Moderate",0
+733,73,"Female","Drug A","50 mg","Diabetes","Mild",0
+601,21,"Male","Drug A","20 mg","None","Moderate",0
+754,35,"Female","Drug B","50 mg","Hypertension","Moderate",0
+842,23,"Female","Drug A","10 mg","None","Mild",0
+744,76,"Female","Placebo","10 mg","Diabetes","Severe",1
+123,34,"Male","Drug B","20 mg","Diabetes","Mild",0
+852,34,"Male","Placebo","10 mg","None","Mild",0
+4,70,"Female","Drug B","50 mg","Hypertension","Mild",0
+806,23,"Female","Placebo","50 mg","None","Mild",0
+668,22,"Male","Drug A","20 mg","Hypertension","Moderate",0
+569,43,"Male","Placebo","10 mg","Hypertension","Moderate",0
+758,39,"Female","Drug B","20 mg","Hypertension","Mild",0
+730,42,"Male","Drug B","50 mg","Diabetes","Moderate",0
+479,31,"Female","Drug B","10 mg","Diabetes","Mild",0
+520,45,"Male","Drug A","20 mg","Diabetes","Moderate",0
+249,28,"Male","Placebo","20 mg","Hypertension","Mild",0
+844,34,"Female","Placebo","20 mg","None","Mild",0
+247,26,"Female","Placebo","10 mg","Diabetes","Mild",0
+56,44,"Male","Placebo","50 mg","Hypertension","Severe",1
+974,61,"Female","Drug A","10 mg","None","Moderate",0
+647,55,"Female","Drug A","10 mg","None","Moderate",0
+110,65,"Male","Drug A","10 mg","Diabetes","Severe",1
+298,60,"Male","Drug A","50 mg","None","Mild",0
+40,72,"Male","Placebo","20 mg","Hypertension","Mild",0
+177,44,"Male","Drug B","50 mg","Hypertension","Mild",0
+910,42,"Female","Drug B","50 mg","Hypertension","Severe",1
+238,42,"Female","Drug B","20 mg","None","Mild",0
+676,64,"Male","Drug A","20 mg","Diabetes","Moderate",0
+74,66,"Male","Drug B","50 mg","None","Mild",0
+732,45,"Male","Drug B","20 mg","None","Severe",1
+635,70,"Male","Drug B","10 mg","Diabetes","Moderate",0
+730,57,"Female","Drug B","50 mg","Hypertension","Severe",1
+725,36,"Female","Drug A","50 mg","None","Severe",1
+823,24,"Male","Drug A","20 mg","Diabetes","Moderate",0
+980,74,"Female","Placebo","50 mg","Hypertension","Moderate",0
+181,45,"Female","Drug B","50 mg","None","Mild",0
+388,21,"Male","Drug A","50 mg","Diabetes","Mild",0
